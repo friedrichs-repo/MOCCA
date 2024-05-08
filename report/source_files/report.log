@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.2.25)  6 MAY 2024 08:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.2.25)  8 MAY 2024 09:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -252,7 +252,7 @@ s1.enc}] [4 <./figures/fco2_model_error_vs_hidden_layer_size.pdf>]
 Here is how much of TeX's memory you used:
  3988 strings out of 477985
  64925 string characters out of 5840058
- 1861388 words of memory out of 5000000
+ 1860388 words of memory out of 5000000
  24142 multiletter control sequences out of 15000+600000
  518826 words of font info for 55 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -270,7 +270,7 @@ cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></us
 r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/typ
 e1/public/cm-super/sfrm1000.pfb>
-Output written on report.pdf (4 pages, 185573 bytes).
+Output written on report.pdf (4 pages, 183793 bytes).
 PDF statistics:
  138 PDF objects out of 1000 (max. 8388607)
  65 compressed objects within 1 object stream
