@@ -38,6 +38,11 @@
 	neural networks...\cite{goodfellow2016}
 	\section{Model architecture}
 	\subsection{Overview}
+	\begin{figure}
+		\includegraphics[width=0.85\textwidth]{./figures/model_architecture_scheme.pdf}
+		\caption{Scheme displaying the overall model architecture of MOCCA.}
+		\label{fig:fco2_model}
+	\end{figure}
 	\subsection{Surrogate models for mocsy fCO2 and pH}
 	In a first step, surrogate multi-layer perceptron models were trained to replace numerical solution of the oceanic carbonate system. To do so, samples for total alkalinity (A$_\textup{T}$), dissolved inorganic carbon (C$_\textup{T}$), temperature (T),  salinity (S), total silicate (Si$_\textup{T}$), and total phosphate (P$_\textup{T}$) were randomly generated from uniform distributions (Table~\ref{tab:gen_data}). \\
 	The training data size was set to 5 000 000 samples and the validation data size was set to 1 000 000 samples. Mocsy 2.0 (Orr et al., 2015a) was then used to calculate fCO$_2$ and pH for these samples. After normalizing per feature with the means and standard deviations given in Table~\ref{tab:gen_data}, multilayer perceptron models with three identical hidden layers were trained with mocsy fCO$_2$ and pH as labels. \\

@@ -3,6 +3,6 @@
 \contentsline {section}{\numberline {2}Model architecture}{1}{}%
 \contentsline {subsection}{\numberline {2.1}Overview}{1}{}%
 \contentsline {subsection}{\numberline {2.2}Surrogate models for mocsy fCO2 and pH}{1}{}%
-\contentsline {subsection}{\numberline {2.3}CMIP6-pretrained DIC and Alk model}{2}{}%
-\contentsline {subsection}{\numberline {2.4}SOCAT-, GLODAP-, and BGC-Argo-based model tuning}{2}{}%
-\contentsline {section}{\numberline {3}Model performance}{2}{}%
+\contentsline {subsection}{\numberline {2.3}CMIP6-pretrained DIC and Alk model}{3}{}%
+\contentsline {subsection}{\numberline {2.4}SOCAT-, GLODAP-, and BGC-Argo-based model tuning}{3}{}%
+\contentsline {section}{\numberline {3}Model performance}{3}{}%
