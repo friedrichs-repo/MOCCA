@@ -1,3 +1,4 @@
-## carb-obs
+## MOCCA
+#### Multi-sourced Oceanic Carbonate Chemistry Assimilation
 
-Consistent carbonate system observations from SOCAT, GLODAP, BGC-Argo and Earth system model priors.
+An observational product for oceanic carbonate chemistry based on SOCAT, GLODAP, BGC-Argo and CMIP6 Earth system model priors.
