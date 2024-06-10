@@ -1,9 +1,114 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{16}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bakker et~al.(2016)Bakker, Pfeil, Landa, Metzl, O'Brien, Olsen, Smith,
+  Cosca, Harasawa, Jones, Nakaoka, Nojiri, Schuster, Steinhoff, Sweeney,
+  Takahashi, Tilbrook, Wada, Wanninkhof, Alin, Balestrini, Barbero, Bates,
+  Bianchi, Bonou, Boutin, Bozec, Burger, Cai, Castle, Chen, Chierici, Currie,
+  Evans, Featherstone, Feely, Fransson, Goyet, Greenwood, Gregor, Hankin,
+  Hardman-Mountford, Harlay, Hauck, Hoppema, Humphreys, Hunt, Huss, Ib\'anhez,
+  Johannessen, Keeling, Kitidis, K\"ortzinger, Kozyr, Krasakopoulou, Kuwata,
+  Landsch\"utzer, Lauvset, Lef\`evre, Lo~Monaco, Manke, Mathis, Merlivat,
+  Millero, Monteiro, Munro, Murata, Newberger, Omar, Ono, Paterson, Pearce,
+  Pierrot, Robbins, Saito, Salisbury, Schlitzer, Schneider, Schweitzer, Sieger,
+  Skjelvan, Sullivan, Sutherland, Sutton, Tadokoro, Telszewski, Tuma, van
+  Heuven, Vandemark, Ward, Watson, and Xu]{bakker2016}
+D.~C.~E. Bakker, B.~Pfeil, C.~S. Landa, N.~Metzl, K.~M. O'Brien, A.~Olsen,
+  K.~Smith, C.~Cosca, S.~Harasawa, S.~D. Jones, S.~Nakaoka, Y.~Nojiri,
+  U.~Schuster, T.~Steinhoff, C.~Sweeney, T.~Takahashi, B.~Tilbrook, C.~Wada,
+  R.~Wanninkhof, S.~R. Alin, C.~F. Balestrini, L.~Barbero, N.~R. Bates, A.~A.
+  Bianchi, F.~Bonou, J.~Boutin, Y.~Bozec, E.~F. Burger, W.-J. Cai, R.~D.
+  Castle, L.~Chen, M.~Chierici, K.~Currie, W.~Evans, C.~Featherstone, R.~A.
+  Feely, A.~Fransson, C.~Goyet, N.~Greenwood, L.~Gregor, S.~Hankin, N.~J.
+  Hardman-Mountford, J.~Harlay, J.~Hauck, M.~Hoppema, M.~P. Humphreys, C.~W.
+  Hunt, B.~Huss, J.~S.~P. Ib\'anhez, T.~Johannessen, R.~Keeling, V.~Kitidis,
+  A.~K\"ortzinger, A.~Kozyr, E.~Krasakopoulou, A.~Kuwata, P.~Landsch\"utzer,
+  S.~K. Lauvset, N.~Lef\`evre, C.~Lo~Monaco, A.~Manke, J.~T. Mathis,
+  L.~Merlivat, F.~J. Millero, P.~M.~S. Monteiro, D.~R. Munro, A.~Murata,
+  T.~Newberger, A.~M. Omar, T.~Ono, K.~Paterson, D.~Pearce, D.~Pierrot, L.~L.
+  Robbins, S.~Saito, J.~Salisbury, R.~Schlitzer, B.~Schneider, R.~Schweitzer,
+  R.~Sieger, I.~Skjelvan, K.~F. Sullivan, S.~C. Sutherland, A.~J. Sutton,
+  K.~Tadokoro, M.~Telszewski, M.~Tuma, S.~M. A.~C. van Heuven, D.~Vandemark,
+  B.~Ward, A.~J. Watson, and S.~Xu.
+\newblock A multi-decade record of high-quality $f$co$_{2}$ data in version 3
+  of the surface ocean co$_{2}$ atlas (socat).
+\newblock \emph{Earth System Science Data}, 8\penalty0 (2):\penalty0 383--413,
+  2016.
+\newblock \doi{10.5194/essd-8-383-2016}.
+\newblock URL \url{https://essd.copernicus.org/articles/8/383/2016/}.
+
+\bibitem[Chau et~al.(2022)Chau, Gehlen, and Chevallier]{chau2022}
+T.~T.~T. Chau, M.~Gehlen, and F.~Chevallier.
+\newblock A seamless ensemble-based reconstruction of surface ocean $p$co$_2$
+  and air--sea co$_2$ fluxes over the global coastal and open oceans.
+\newblock \emph{Biogeosciences}, 19\penalty0 (4):\penalty0 1087--1109, 2022.
+\newblock \doi{10.5194/bg-19-1087-2022}.
+\newblock URL \url{https://bg.copernicus.org/articles/19/1087/2022/}.
+
+\bibitem[Friedlingstein et~al.(2023)Friedlingstein, O'Sullivan, Jones, Andrew,
+  Bakker, Hauck, Landsch\"utzer, Le~Qu\'er\'e, Luijkx, Peters, Peters,
+  Pongratz, Schwingshackl, Sitch, Canadell, Ciais, Jackson, Alin, Anthoni,
+  Barbero, Bates, Becker, Bellouin, Decharme, Bopp, Brasika, Cadule,
+  Chamberlain, Chandra, Chau, Chevallier, Chini, Cronin, Dou, Enyo, Evans,
+  Falk, Feely, Feng, Ford, Gasser, Ghattas, Gkritzalis, Grassi, Gregor, Gruber,
+  G\"urses, Harris, Hefner, Heinke, Houghton, Hurtt, Iida, Ilyina, Jacobson,
+  Jain, Jarn\'{\i}kov\'a, Jersild, Jiang, Jin, Joos, Kato, Keeling, Kennedy,
+  Klein~Goldewijk, Knauer, Korsbakken, K\"ortzinger, Lan, Lef\`evre, Li, Liu,
+  Liu, Ma, Marland, Mayot, McGuire, McKinley, Meyer, Morgan, Munro, Nakaoka,
+  Niwa, O'Brien, Olsen, Omar, Ono, Paulsen, Pierrot, Pocock, Poulter, Powis,
+  Rehder, Resplandy, Robertson, R\"odenbeck, Rosan, Schwinger, S\'ef\'erian,
+  Smallman, Smith, Sospedra-Alfonso, Sun, Sutton, Sweeney, Takao, Tans, Tian,
+  Tilbrook, Tsujino, Tubiello, van~der Werf, van Ooijen, Wanninkhof, Watanabe,
+  Wimart-Rousseau, Yang, Yang, Yuan, Yue, Zaehle, Zeng, and
+  Zheng]{friedlingstein2023}
+P.~Friedlingstein, M.~O'Sullivan, M.~W. Jones, R.~M. Andrew, D.~C.~E. Bakker,
+  J.~Hauck, P.~Landsch\"utzer, C.~Le~Qu\'er\'e, I.~T. Luijkx, G.~P. Peters,
+  W.~Peters, J.~Pongratz, C.~Schwingshackl, S.~Sitch, J.~G. Canadell, P.~Ciais,
+  R.~B. Jackson, S.~R. Alin, P.~Anthoni, L.~Barbero, N.~R. Bates, M.~Becker,
+  N.~Bellouin, B.~Decharme, L.~Bopp, I.~B.~M. Brasika, P.~Cadule, M.~A.
+  Chamberlain, N.~Chandra, T.-T.-T. Chau, F.~Chevallier, L.~P. Chini,
+  M.~Cronin, X.~Dou, K.~Enyo, W.~Evans, S.~Falk, R.~A. Feely, L.~Feng, D.~J.
+  Ford, T.~Gasser, J.~Ghattas, T.~Gkritzalis, G.~Grassi, L.~Gregor, N.~Gruber,
+  O.~G\"urses, I.~Harris, M.~Hefner, J.~Heinke, R.~A. Houghton, G.~C. Hurtt,
+  Y.~Iida, T.~Ilyina, A.~R. Jacobson, A.~Jain, T.~Jarn\'{\i}kov\'a, A.~Jersild,
+  F.~Jiang, Z.~Jin, F.~Joos, E.~Kato, R.~F. Keeling, D.~Kennedy,
+  K.~Klein~Goldewijk, J.~Knauer, J.~I. Korsbakken, A.~K\"ortzinger, X.~Lan,
+  N.~Lef\`evre, H.~Li, J.~Liu, Z.~Liu, L.~Ma, G.~Marland, N.~Mayot, P.~C.
+  McGuire, G.~A. McKinley, G.~Meyer, E.~J. Morgan, D.~R. Munro, S.-I. Nakaoka,
+  Y.~Niwa, K.~M. O'Brien, A.~Olsen, A.~M. Omar, T.~Ono, M.~Paulsen, D.~Pierrot,
+  K.~Pocock, B.~Poulter, C.~M. Powis, G.~Rehder, L.~Resplandy, E.~Robertson,
+  C.~R\"odenbeck, T.~M. Rosan, J.~Schwinger, R.~S\'ef\'erian, T.~L. Smallman,
+  S.~M. Smith, R.~Sospedra-Alfonso, Q.~Sun, A.~J. Sutton, C.~Sweeney, S.~Takao,
+  P.~P. Tans, H.~Tian, B.~Tilbrook, H.~Tsujino, F.~Tubiello, G.~R. van~der
+  Werf, E.~van Ooijen, R.~Wanninkhof, M.~Watanabe, C.~Wimart-Rousseau, D.~Yang,
+  X.~Yang, W.~Yuan, X.~Yue, S.~Zaehle, J.~Zeng, and B.~Zheng.
+\newblock Global carbon budget 2023.
+\newblock \emph{Earth System Science Data}, 15\penalty0 (12):\penalty0
+  5301--5369, 2023.
+\newblock \doi{10.5194/essd-15-5301-2023}.
+\newblock URL \url{https://essd.copernicus.org/articles/15/5301/2023/}.
+
+\bibitem[Gade(2010)]{gade2010}
+K.~Gade.
+\newblock A non-singular horizontal position representation.
+\newblock \emph{THE JOURNAL OF NAVIGATION}, 63:\penalty0 395--417, 2010.
+\newblock ISSN 0021-9991.
+\newblock \doi{doi:10.1017/S0373463309990415}.
+
+\bibitem[Gloege et~al.(2022)Gloege, Yan, Zheng, and McKinley]{gloege2022}
+L.~Gloege, M.~Yan, T.~Zheng, and G.~A. McKinley.
+\newblock Improved quantification of ocean carbon uptake by using machine
+  learning to merge global models and pco2 data.
+\newblock \emph{Journal of Advances in Modeling Earth Systems}, 14\penalty0
+  (2):\penalty0 e2021MS002620, 2022.
+\newblock \doi{https://doi.org/10.1029/2021MS002620}.
+\newblock URL
+  \url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021MS002620}.
+\newblock e2021MS002620 2021MS002620.
 
 \bibitem[Goodfellow et~al.(2016)Goodfellow, Bengio, and
   Courville]{goodfellow2016}
@@ -11,5 +116,104 @@ I.~J. Goodfellow, Y.~Bengio, and A.~Courville.
 \newblock \emph{Deep Learning}.
 \newblock MIT Press, Cambridge, MA, USA, 2016.
 \newblock \url{http://www.deeplearningbook.org}.
+
+\bibitem[Gregor and Gruber(2021)]{gregor2021}
+L.~Gregor and N.~Gruber.
+\newblock Oceansoda-ethz: a global gridded data set of the surface ocean
+  carbonate system for seasonal to decadal studies of ocean acidification.
+\newblock \emph{Earth System Science Data}, 13\penalty0 (2):\penalty0 777--808,
+  2021.
+\newblock \doi{10.5194/essd-13-777-2021}.
+\newblock URL \url{https://essd.copernicus.org/articles/13/777/2021/}.
+
+\bibitem[Hornik et~al.(1989)Hornik, Stinchcombe, and White]{hornik1989}
+K.~Hornik, M.~Stinchcombe, and H.~White.
+\newblock Multilayer feedforward networks are universal approximators.
+\newblock \emph{Neural Networks}, 2\penalty0 (5):\penalty0 359--366, 1989.
+\newblock ISSN 0893-6080.
+\newblock \doi{https://doi.org/10.1016/0893-6080(89)90020-8}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/0893608089900208}.
+
+\bibitem[Iida et~al.(2021)Iida, Takatani, Kojima, and Ishii]{iida2021}
+Y.~Iida, Y.~Takatani, A.~Kojima, and M.~Ishii.
+\newblock Global trends of ocean co2 sink and ocean acidification: an
+  observation-based reconstruction of surface ocean inorganic carbon variables.
+\newblock \emph{Journal of Oceanography}, 77\penalty0 (2):\penalty0 323--358,
+  Apr 2021.
+\newblock ISSN 1573-868X.
+\newblock \doi{10.1007/s10872-020-00571-5}.
+\newblock URL \url{https://doi.org/10.1007/s10872-020-00571-5}.
+
+\bibitem[Johnson et~al.(2017)Johnson, Plant, Coletti, Jannasch, Sakamoto,
+  Riser, Swift, Williams, Boss, Haëntjens, Talley, and Sarmiento]{johnson2017}
+K.~S. Johnson, J.~N. Plant, L.~J. Coletti, H.~W. Jannasch, C.~M. Sakamoto,
+  S.~C. Riser, D.~D. Swift, N.~L. Williams, E.~Boss, N.~Haëntjens, L.~D.
+  Talley, and J.~L. Sarmiento.
+\newblock Biogeochemical sensor performance in the soccom profiling float
+  array.
+\newblock \emph{Journal of Geophysical Research: Oceans}, 122\penalty0
+  (8):\penalty0 6416--6436, 2017.
+\newblock \doi{https://doi.org/10.1002/2017JC012838}.
+\newblock URL
+  \url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JC012838}.
+
+\bibitem[Landschützer et~al.(2016)Landschützer, Gruber, and
+  Bakker]{landschuetzer2016}
+P.~Landschützer, N.~Gruber, and D.~C.~E. Bakker.
+\newblock Decadal variations and trends of the global ocean carbon sink.
+\newblock \emph{Global Biogeochemical Cycles}, 30\penalty0 (10):\penalty0
+  1396--1417, 2016.
+\newblock \doi{https://doi.org/10.1002/2015GB005359}.
+\newblock URL
+  \url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2015GB005359}.
+
+\bibitem[Olsen et~al.(2016)Olsen, Key, van Heuven, Lauvset, Velo, Lin,
+  Schirnick, Kozyr, Tanhua, Hoppema, Jutterstr\"om, Steinfeldt, Jeansson,
+  Ishii, P\'erez, and Suzuki]{olsen2016}
+A.~Olsen, R.~M. Key, S.~van Heuven, S.~K. Lauvset, A.~Velo, X.~Lin,
+  C.~Schirnick, A.~Kozyr, T.~Tanhua, M.~Hoppema, S.~Jutterstr\"om,
+  R.~Steinfeldt, E.~Jeansson, M.~Ishii, F.~F. P\'erez, and T.~Suzuki.
+\newblock The global ocean data analysis project version 2 (glodapv2) -- an
+  internally consistent data product for the world ocean, 2016.
+\newblock URL \url{https://essd.copernicus.org/articles/8/297/2016/}.
+
+\bibitem[Orr and Epitalon(2015)]{orr2015}
+J.~C. Orr and J.-M. Epitalon.
+\newblock Improved routines to model the ocean carbonate system: mocsy 2.0.
+\newblock \emph{Geoscientific Model Development}, 8\penalty0 (3):\penalty0
+  485--499, 2015.
+\newblock \doi{10.5194/gmd-8-485-2015}.
+\newblock URL \url{https://gmd.copernicus.org/articles/8/485/2015/}.
+
+\bibitem[Reichstein et~al.(2019)Reichstein, Camps-Valls, Stevens, Jung,
+  Denzler, Carvalhais, and {Prabhat}]{reichstein2019}
+M.~Reichstein, G.~Camps-Valls, B.~Stevens, M.~Jung, J.~Denzler, N.~Carvalhais,
+  and {Prabhat}.
+\newblock Deep learning and process understanding for data-driven earth system
+  science.
+\newblock \emph{Nature}, 566\penalty0 (7743):\penalty0 195--204, Feb 2019.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/s41586-019-0912-1}.
+\newblock URL \url{https://doi.org/10.1038/s41586-019-0912-1}.
+
+\bibitem[R\"odenbeck et~al.(2022)R\"odenbeck, DeVries, Hauck, Le~Qu\'er\'e, and
+  Keeling]{roedenbeck2022}
+C.~R\"odenbeck, T.~DeVries, J.~Hauck, C.~Le~Qu\'er\'e, and R.~F. Keeling.
+\newblock Data-based estimates of interannual sea--air co$_2$ flux variations
+  1957--2020 and their relation to environmental drivers.
+\newblock \emph{Biogeosciences}, 19\penalty0 (10):\penalty0 2627--2652, 2022.
+\newblock \doi{10.5194/bg-19-2627-2022}.
+\newblock URL \url{https://bg.copernicus.org/articles/19/2627/2022/}.
+
+\bibitem[Zeng et~al.(2022)Zeng, Iida, Matsunaga, and Shirai]{zeng2022}
+J.~Zeng, Y.~Iida, T.~Matsunaga, and T.~Shirai.
+\newblock Surface ocean co2 concentration and air-sea flux estimate by machine
+  learning with modelled variable trends.
+\newblock \emph{Frontiers in Marine Science}, 9, 2022.
+\newblock ISSN 2296-7745.
+\newblock \doi{10.3389/fmars.2022.989233}.
+\newblock URL
+  \url{https://www.frontiersin.org/articles/10.3389/fmars.2022.989233}.
 
 \end{thebibliography}

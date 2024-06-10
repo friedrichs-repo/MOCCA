@@ -1,23 +1,64 @@
 \relax 
 \providecommand\babel@aux[2]{}
 \@nameuse{bbl@beforestart}
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
 \bibstyle{abbrvnat}
+\citation{reichstein2019}
 \citation{goodfellow2016}
+\citation{hornik1989}
+\citation{friedlingstein2023}
 \babel@aux{english}{}
-\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {2}Model architecture}{1}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Overview}{1}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Surrogate models for mocsy fCO2 and pH}{1}{}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Scheme displaying the overall model architecture of MOCCA.}}{2}{}\protected@file@percent }
-\newlabel{fig:fco2_model}{{1}{2}{}{}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{section.1}\protected@file@percent }
+\citation{chau2022}
+\citation{landschuetzer2016}
+\citation{gregor2021}
+\citation{zeng2022}
+\citation{iida2021}
+\citation{gloege2022}
+\citation{roedenbeck2022}
+\citation{bakker2016}
+\citation{landschuetzer2016,gregor2021}
+\citation{johnson2017}
+\citation{olsen2016}
+\citation{iida2021}
+\citation{orr2015}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Scheme displaying the overall model architecture of MOCCA.}}{3}{figure.1}\protected@file@percent }
+\newlabel{fig:fco2_model}{{1}{3}{Scheme displaying the overall model architecture of MOCCA}{figure.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Model architecture}{4}{section.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Overview}{4}{subsection.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Surrogate models for mocsy fCO2 and pH}{4}{subsection.2.2}\protected@file@percent }
+\newlabel{sect:surrgate_models}{{2.2}{4}{Surrogate models for mocsy fCO2 and pH}{subsection.2.2}{}}
+\citation{gade2010}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Minima and maxima of the uniform distributions used to generate samples for the fCO$_2$ and pH surrogate models. The range for A$_\textup  {T}$ was chosen such that it easily encompasses open ocean variations in A$_\textup  {T}$. That for C$_\textup  {T}$ is limited to values lower A$_\textup  {T}$ since larger C$_\textup  {T}$ do not occur in the ocean. The ranges for T and S are chosen according to Lueker et al., 2000, whose parameterizations for K$_1$ and K$_2$ are used in mocsy. Finally, the maximum values for Si$_\textup  {T}$ and P$_\textup  {T}$ were chosen to be the global maxima found in the monthly climatologies for Si$_\textup  {T}$ and P$_\textup  {T}$ from World Ocean Atlas 2023. These uniform distributions have means $(max + min) / 2$ and standard deviations $(max - min) / \sqrt  {12}$, expcept for C$_\textup  {T}$ where mean and standard deviation are given by $min + (max - min) / 4$ and $(max - min) \cdot \sqrt  {7 / 144}$, respectively. These means and standard deviations are used for feature normalization.}}{5}{table.1}\protected@file@percent }
+\newlabel{tab:gen_data}{{1}{5}{Minima and maxima of the uniform distributions used to generate samples for the fCO$_2$ and pH surrogate models. The range for A$_\textup {T}$ was chosen such that it easily encompasses open ocean variations in A$_\textup {T}$. That for C$_\textup {T}$ is limited to values lower A$_\textup {T}$ since larger C$_\textup {T}$ do not occur in the ocean. The ranges for T and S are chosen according to Lueker et al., 2000, whose parameterizations for K$_1$ and K$_2$ are used in mocsy. Finally, the maximum values for Si$_\textup {T}$ and P$_\textup {T}$ were chosen to be the global maxima found in the monthly climatologies for Si$_\textup {T}$ and P$_\textup {T}$ from World Ocean Atlas 2023. These uniform distributions have means $(max + min) / 2$ and standard deviations $(max - min) / \sqrt {12}$, expcept for C$_\textup {T}$ where mean and standard deviation are given by $min + (max - min) / 4$ and $(max - min) \cdot \sqrt {7 / 144}$, respectively. These means and standard deviations are used for feature normalization}{table.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces The evolution of root mean squared error (RMSE), the 99.99th and 99.999th percentiles of deviation and the maximum deviation between the surrogate model and mocsy fCO$_2$ over the validation data set with 1000 000 randomly generated samples.}}{6}{figure.2}\protected@file@percent }
+\newlabel{fig:fco2_model}{{2}{6}{The evolution of root mean squared error (RMSE), the 99.99th and 99.999th percentiles of deviation and the maximum deviation between the surrogate model and mocsy fCO$_2$ over the validation data set with 1000 000 randomly generated samples}{figure.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}CMIP6-pretrained base model}{7}{subsection.2.3}\protected@file@percent }
+\newlabel{sect:cmip6-pretraining}{{2.3}{7}{CMIP6-pretrained base model}{subsection.2.3}{}}
 \bibdata{bib}
-\bibcite{goodfellow2016}{{1}{2016}{{Goodfellow et~al.}}{{Goodfellow, Bengio, and Courville}}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}CMIP6-pretrained DIC and Alk model}{3}{}\protected@file@percent }
-\newlabel{sect:cmip6-pretraining}{{2.3}{3}{}{}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}SOCAT-, GLODAP-, and BGC-Argo-based model tuning}{3}{}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {3}Model performance}{3}{}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Minima and maxima of the uniform distributions used to generate samples for the fCO$_2$ and pH surrogate models. The range for A$_\textup  {T}$ was chosen such that it easily encompasses open ocean variations in A$_\textup  {T}$. That for C$_\textup  {T}$ is limited to values lower A$_\textup  {T}$ since larger C$_\textup  {T}$ do not occur in the ocean. The ranges for T and S are chosen according to Lueker et al., 2000, whose parameterizations for K$_1$ and K$_2$ are used in mocsy. Finally, the maximum values for Si$_\textup  {T}$ and P$_\textup  {T}$ were chosen to be the global maxima found in the monthly climatologies for Si$_\textup  {T}$ and P$_\textup  {T}$ from World Ocean Atlas 2023. These uniform distributions have means $(max + min) / 2$ and standard deviations $(max - min) / \sqrt  {12}$, expcept for C$_\textup  {T}$ where mean and standard deviation are given by $min + (max - min) / 4$ and $(max - min) \cdot \sqrt  {7 / 144}$, respectively. These means and standard deviations are used for feature normalization.}}{4}{}\protected@file@percent }
-\newlabel{tab:gen_data}{{1}{4}{}{}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces The evolution of root mean squared error (RMSE), the 99.99th and 99.999th percentiles of deviation and the maximum deviation between the surrogate model and mocsy fCO$_2$ over the validation data set with 1000 000 randomly generated samples.}}{5}{}\protected@file@percent }
-\newlabel{fig:fco2_model}{{2}{5}{}{}{}}
-\gdef \@abspage@last{5}
+\bibcite{bakker2016}{{1}{2016}{{Bakker et~al.}}{{Bakker, Pfeil, Landa, Metzl, O'Brien, Olsen, Smith, Cosca, Harasawa, Jones, Nakaoka, Nojiri, Schuster, Steinhoff, Sweeney, Takahashi, Tilbrook, Wada, Wanninkhof, Alin, Balestrini, Barbero, Bates, Bianchi, Bonou, Boutin, Bozec, Burger, Cai, Castle, Chen, Chierici, Currie, Evans, Featherstone, Feely, Fransson, Goyet, Greenwood, Gregor, Hankin, Hardman-Mountford, Harlay, Hauck, Hoppema, Humphreys, Hunt, Huss, Ib\'anhez, Johannessen, Keeling, Kitidis, K\"ortzinger, Kozyr, Krasakopoulou, Kuwata, Landsch\"utzer, Lauvset, Lef\`evre, Lo~Monaco, Manke, Mathis, Merlivat, Millero, Monteiro, Munro, Murata, Newberger, Omar, Ono, Paterson, Pearce, Pierrot, Robbins, Saito, Salisbury, Schlitzer, Schneider, Schweitzer, Sieger, Skjelvan, Sullivan, Sutherland, Sutton, Tadokoro, Telszewski, Tuma, van Heuven, Vandemark, Ward, Watson, and Xu}}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces List of predictors used to predict A$_\textup  {T}$, C$_\textup  {T}$, Si$_\textup  {T}$, and P$_\textup  {T}$ and the data product used for each predictor. $^1$\url  {https://doi.org/10.48670/moi-00169}; only available until Oct. 2022, $^2$\url  {https://doi.org/10.48670/moi-00052}, $^3$\url  {https://doi.org/10.48670/moi-00148}, $^4$\url  {https://doi.org/10.48670/moi-00281}; only available from Sept. 1997 on, $^5$\url  {https://atmosphere.copernicus.eu}, $^6$\url  {https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5}}}{8}{table.2}\protected@file@percent }
+\newlabel{tab:pred_data}{{2}{8}{List of predictors used to predict A$_\textup {T}$, C$_\textup {T}$, Si$_\textup {T}$, and P$_\textup {T}$ and the data product used for each predictor. $^1$\url {https://doi.org/10.48670/moi-00169}; only available until Oct. 2022, $^2$\url {https://doi.org/10.48670/moi-00052}, $^3$\url {https://doi.org/10.48670/moi-00148}, $^4$\url {https://doi.org/10.48670/moi-00281}; only available from Sept. 1997 on, $^5$\url {https://atmosphere.copernicus.eu}, $^6$\url {https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5}}{table.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}SOCAT-, GLODAP-, and BGC-Argo-based model tuning}{8}{subsection.2.4}\protected@file@percent }
+\bibcite{chau2022}{{2}{2022}{{Chau et~al.}}{{Chau, Gehlen, and Chevallier}}}
+\bibcite{friedlingstein2023}{{3}{2023}{{Friedlingstein et~al.}}{{Friedlingstein, O'Sullivan, Jones, Andrew, Bakker, Hauck, Landsch\"utzer, Le~Qu\'er\'e, Luijkx, Peters, Peters, Pongratz, Schwingshackl, Sitch, Canadell, Ciais, Jackson, Alin, Anthoni, Barbero, Bates, Becker, Bellouin, Decharme, Bopp, Brasika, Cadule, Chamberlain, Chandra, Chau, Chevallier, Chini, Cronin, Dou, Enyo, Evans, Falk, Feely, Feng, Ford, Gasser, Ghattas, Gkritzalis, Grassi, Gregor, Gruber, G\"urses, Harris, Hefner, Heinke, Houghton, Hurtt, Iida, Ilyina, Jacobson, Jain, Jarn\'{\i }kov\'a, Jersild, Jiang, Jin, Joos, Kato, Keeling, Kennedy, Klein~Goldewijk, Knauer, Korsbakken, K\"ortzinger, Lan, Lef\`evre, Li, Liu, Liu, Ma, Marland, Mayot, McGuire, McKinley, Meyer, Morgan, Munro, Nakaoka, Niwa, O'Brien, Olsen, Omar, Ono, Paulsen, Pierrot, Pocock, Poulter, Powis, Rehder, Resplandy, Robertson, R\"odenbeck, Rosan, Schwinger, S\'ef\'erian, Smallman, Smith, Sospedra-Alfonso, Sun, Sutton, Sweeney, Takao, Tans, Tian, Tilbrook, Tsujino, Tubiello, van~der Werf, van Ooijen, Wanninkhof, Watanabe, Wimart-Rousseau, Yang, Yang, Yuan, Yue, Zaehle, Zeng, and Zheng}}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces List of label data used to train the base model. $^1$\url  {https://socat.info/index.php/2023/06/20/v2023-release/}, $^2$\url  {https://glodap.info/index.php/merged-and-adjusted-data-product-v2-2023/}, $^3$\url  {https://www.seanoe.org/data/00311/42182/}}}{9}{table.3}\protected@file@percent }
+\newlabel{tab:label_data}{{3}{9}{List of label data used to train the base model. $^1$\url {https://socat.info/index.php/2023/06/20/v2023-release/}, $^2$\url {https://glodap.info/index.php/merged-and-adjusted-data-product-v2-2023/}, $^3$\url {https://www.seanoe.org/data/00311/42182/}}{table.3}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Model performance}{9}{section.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Discussion and conclusions}{9}{section.4}\protected@file@percent }
+\bibcite{gade2010}{{4}{2010}{{Gade}}{{}}}
+\bibcite{gloege2022}{{5}{2022}{{Gloege et~al.}}{{Gloege, Yan, Zheng, and McKinley}}}
+\bibcite{goodfellow2016}{{6}{2016}{{Goodfellow et~al.}}{{Goodfellow, Bengio, and Courville}}}
+\bibcite{gregor2021}{{7}{2021}{{Gregor and Gruber}}{{}}}
+\bibcite{hornik1989}{{8}{1989}{{Hornik et~al.}}{{Hornik, Stinchcombe, and White}}}
+\bibcite{iida2021}{{9}{2021}{{Iida et~al.}}{{Iida, Takatani, Kojima, and Ishii}}}
+\bibcite{johnson2017}{{10}{2017}{{Johnson et~al.}}{{Johnson, Plant, Coletti, Jannasch, Sakamoto, Riser, Swift, Williams, Boss, Haëntjens, Talley, and Sarmiento}}}
+\bibcite{landschuetzer2016}{{11}{2016}{{Landschützer et~al.}}{{Landschützer, Gruber, and Bakker}}}
+\bibcite{olsen2016}{{12}{2016}{{Olsen et~al.}}{{Olsen, Key, van Heuven, Lauvset, Velo, Lin, Schirnick, Kozyr, Tanhua, Hoppema, Jutterstr\"om, Steinfeldt, Jeansson, Ishii, P\'erez, and Suzuki}}}
+\bibcite{orr2015}{{13}{2015}{{Orr and Epitalon}}{{}}}
+\bibcite{reichstein2019}{{14}{2019}{{Reichstein et~al.}}{{Reichstein, Camps-Valls, Stevens, Jung, Denzler, Carvalhais, and {Prabhat}}}}
+\bibcite{roedenbeck2022}{{15}{2022}{{R\"odenbeck et~al.}}{{R\"odenbeck, DeVries, Hauck, Le~Qu\'er\'e, and Keeling}}}
+\bibcite{zeng2022}{{16}{2022}{{Zeng et~al.}}{{Zeng, Iida, Matsunaga, and Shirai}}}
+\gdef \@abspage@last{11}
