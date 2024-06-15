@@ -1,4 +1,4 @@
-\begin{thebibliography}{16}
+\begin{thebibliography}{17}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -125,6 +125,13 @@ L.~Gregor and N.~Gruber.
   2021.
 \newblock \doi{10.5194/essd-13-777-2021}.
 \newblock URL \url{https://essd.copernicus.org/articles/13/777/2021/}.
+
+\bibitem[Géron(2019)]{geron2019hands}
+A.~Géron.
+\newblock \emph{Hands-On Machine Learning with Scikit-Learn, Keras, and
+  TensorFlow}.
+\newblock O'Reilly Media, Sebastopol, CA, 2nd edition, 2019.
+\newblock ISBN 978-1-492-03264-9.
 
 \bibitem[Hornik et~al.(1989)Hornik, Stinchcombe, and White]{hornik1989}
 K.~Hornik, M.~Stinchcombe, and H.~White.

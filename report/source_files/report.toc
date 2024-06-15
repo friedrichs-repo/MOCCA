@@ -1,9 +1,6 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
-\contentsline {section}{\numberline {2}Model architecture}{4}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Overview}{4}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Surrogate models for mocsy fCO2 and pH}{4}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}CMIP6-pretrained base model}{7}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}SOCAT-, GLODAP-, and BGC-Argo-based model tuning}{8}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Model performance}{9}{section.3}%
-\contentsline {section}{\numberline {4}Discussion and conclusions}{9}{section.4}%
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Overall model architecture}{3}{section.2}%
+\contentsline {section}{\numberline {3}Surrogate models for mocsy fCO2 and pH}{5}{section.3}%
+\contentsline {section}{\numberline {4}CMIP6-pretrained base model}{6}{section.4}%
+\contentsline {section}{\numberline {5}SOCAT-, GLODAP-, and BGC-Argo-based model tuning}{9}{section.5}%
