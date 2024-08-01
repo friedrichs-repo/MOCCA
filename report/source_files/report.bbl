@@ -1,4 +1,4 @@
-\begin{thebibliography}{17}
+\begin{thebibliography}{20}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -175,6 +175,22 @@ P.~Landschützer, N.~Gruber, and D.~C.~E. Bakker.
 \newblock URL
   \url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2015GB005359}.
 
+\bibitem[Lauvset et~al.(2024)Lauvset, Lange, Tanhua, Bittig, Olsen, Kozyr,
+  \'Alvarez, Azetsu-Scott, Brown, Carter, Cotrim~da Cunha, Hoppema, Humphreys,
+  Ishii, Jeansson, Murata, M\"uller, P\'erez, Schirnick, Steinfeldt, Suzuki,
+  Ulfsbo, Velo, Woosley, and Key]{lauvset2024}
+S.~K. Lauvset, N.~Lange, T.~Tanhua, H.~C. Bittig, A.~Olsen, A.~Kozyr,
+  M.~\'Alvarez, K.~Azetsu-Scott, P.~J. Brown, B.~R. Carter, L.~Cotrim~da Cunha,
+  M.~Hoppema, M.~P. Humphreys, M.~Ishii, E.~Jeansson, A.~Murata, J.~D.
+  M\"uller, F.~F. P\'erez, C.~Schirnick, R.~Steinfeldt, T.~Suzuki, A.~Ulfsbo,
+  A.~Velo, R.~J. Woosley, and R.~M. Key.
+\newblock The annual update glodapv2.2023: the global interior ocean
+  biogeochemical data product.
+\newblock \emph{Earth System Science Data}, 16\penalty0 (4):\penalty0
+  2047--2072, 2024.
+\newblock \doi{10.5194/essd-16-2047-2024}.
+\newblock URL \url{https://essd.copernicus.org/articles/16/2047/2024/}.
+
 \bibitem[Olsen et~al.(2016)Olsen, Key, van Heuven, Lauvset, Velo, Lin,
   Schirnick, Kozyr, Tanhua, Hoppema, Jutterstr\"om, Steinfeldt, Jeansson,
   Ishii, P\'erez, and Suzuki]{olsen2016}
@@ -212,6 +228,23 @@ C.~R\"odenbeck, T.~DeVries, J.~Hauck, C.~Le~Qu\'er\'e, and R.~F. Keeling.
 \newblock \emph{Biogeosciences}, 19\penalty0 (10):\penalty0 2627--2652, 2022.
 \newblock \doi{10.5194/bg-19-2627-2022}.
 \newblock URL \url{https://bg.copernicus.org/articles/19/2627/2022/}.
+
+\bibitem[Srivastava et~al.(2012)Srivastava, Hinton, Krizhevsky, Sutskever, and
+  Salakhutdinov]{srivastava20124dropout}
+N.~Srivastava, G.~E. Hinton, A.~Krizhevsky, I.~Sutskever, and R.~R.
+  Salakhutdinov.
+\newblock Improving neural networks by preventing co-adaptation of feature
+  detectors.
+\newblock \emph{arXiv preprint arXiv:1207.0580}, 2012.
+\newblock \doi{doi.org/10.48550/arXiv.1207.0580}.
+
+\bibitem[Srivastava et~al.(2014)Srivastava, Hinton, Krizhevsky, Sutskever, and
+  Salakhutdinov]{srivastava2014}
+N.~Srivastava, G.~Hinton, A.~Krizhevsky, I.~Sutskever, and R.~Salakhutdinov.
+\newblock Dropout: a simple way to prevent neural networks from overfitting.
+\newblock \emph{J. Mach. Learn. Res.}, 15\penalty0 (1):\penalty0 1929–1958,
+  jan 2014.
+\newblock ISSN 1532-4435.
 
 \bibitem[Zeng et~al.(2022)Zeng, Iida, Matsunaga, and Shirai]{zeng2022}
 J.~Zeng, Y.~Iida, T.~Matsunaga, and T.~Shirai.

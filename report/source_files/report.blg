@@ -5,45 +5,45 @@ The style file: abbrvnat.bst
 Database file #1: bib.bib
 Warning--entry type for "olsen2016" isn't style-file defined
 --line 225 of file bib.bib
-You've used 17 entries,
+You've used 20 entries,
             2773 wiz_defined-function locations,
-            736 strings with 12847 characters,
-and the built_in function-call counts, 20484 in all, are:
-= -- 1528
-> -- 2612
+            758 strings with 13967 characters,
+and the built_in function-call counts, 23307 in all, are:
+= -- 1746
+> -- 2936
 < -- 4
-+ -- 872
-- -- 855
-* -- 2217
-:= -- 3495
-add.period$ -- 86
-call.type$ -- 17
-change.case$ -- 335
-chr.to.int$ -- 17
-cite$ -- 34
-duplicate$ -- 347
-empty$ -- 675
-format.name$ -- 876
-if$ -- 3926
++ -- 980
+- -- 960
+* -- 2517
+:= -- 3967
+add.period$ -- 99
+call.type$ -- 20
+change.case$ -- 379
+chr.to.int$ -- 20
+cite$ -- 40
+duplicate$ -- 409
+empty$ -- 794
+format.name$ -- 984
+if$ -- 4474
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 18
-newline$ -- 128
-num.names$ -- 68
-pop$ -- 617
+missing$ -- 21
+newline$ -- 147
+num.names$ -- 80
+pop$ -- 697
 preamble$ -- 1
-purify$ -- 319
+purify$ -- 360
 quote$ -- 0
-skip$ -- 492
+skip$ -- 562
 stack$ -- 0
-substring$ -- 379
-swap$ -- 19
+substring$ -- 449
+swap$ -- 23
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 177
+type$ -- 210
 warning$ -- 0
-while$ -- 70
+while$ -- 82
 width$ -- 0
-write$ -- 298
+write$ -- 344
 (There was 1 warning)
